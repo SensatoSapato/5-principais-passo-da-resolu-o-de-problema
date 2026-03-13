@@ -1,0 +1,11 @@
+identificar - Uma escola está tento problemas de internet durante as aulas de laborátorio, impedindo que os alunos e professores usarem os computador com uma internet de qualidade
+
+Descrever todas as partes constituintes do problema:
+1 - número elevado de alunos/profesores em sala de aula utilizando a rede
+2 - roteador em um lugar que impossibilita a rede de funcionar com a qualidade pretendida
+3 - plano de internet que não aguenta a demanda
+4 - roteador não dedicado para o cômodo
+5 - erro de configuração do roteador
+
+Encontrar uma solução:
+Para solucionar os problemas eu iria aumentar a capacidade da internet, sugerindo um aumento na capacidade da internet para que aguente a demanda requerida pela escola, cabos de rede dedicados a cada computador, roteador em um lugar que cubra toda a área e uma configuração competente
