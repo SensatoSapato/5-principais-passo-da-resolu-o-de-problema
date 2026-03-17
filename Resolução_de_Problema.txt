@@ -9,3 +9,12 @@ Descrever todas as partes constituintes do problema:
 
 Encontrar uma solução:
 Para solucionar os problemas eu iria aumentar a capacidade da internet, sugerindo um aumento na capacidade da internet para que aguente a demanda requerida pela escola, cabos de rede dedicados a cada computador, roteador em um lugar que cubra toda a área e uma configuração competente
+
+Avaliação Conclusiva:
+Implementando na escola esse passo a passo nos computadores do laboratório, tanto alunos quanto professores irão poder ter uma conexão que cubra a demanda requerida pela escola sem afetar outros setores
+
+Conclusão
+Para ter certeza que realmente solucionou o problema, monitoro a rede em diferentes turmas, horários e dias para garantir que tudo está funcionando com êxito.
+Se aparecer algum problema, eu o identifico e tento o mais rápido possível solucionar ele, para não atrapalhar o ritmo de aulas.
+Com tudo funcionando e devidamente monitorado, posso dizer que o trabalho está completo 
+
