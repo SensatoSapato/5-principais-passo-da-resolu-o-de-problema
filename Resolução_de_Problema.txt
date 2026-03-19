@@ -1,4 +1,4 @@
-identificar - Uma escola está tento problemas de internet durante as aulas de laborátorio, impedindo que os alunos e professores usarem os computador com uma internet de qualidade
+identificar - Uma escola está tento problemas de internet durante as aulas de laborátorio, impedindo que os alunos e professores usem os computador com uma internet de qualidade
 
 Descrever todas as partes constituintes do problema:
 1 - número elevado de alunos/profesores em sala de aula utilizando a rede
